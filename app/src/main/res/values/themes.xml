@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.UniversalRemote" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#534AB7</item>
+        <item name="colorPrimaryVariant">#3C3489</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:statusBarColor">#3C3489</item>
+    </style>
+</resources>
